@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admin Panel" 
+AuthUserFile F:\xampp\htdocs\blog\admin\.thpasswd
+Require valid-user
