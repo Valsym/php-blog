@@ -11,3 +11,12 @@ function db_connect(){
     return $link;
 }
 ?>
+/* 
+1. Необходимо создать Базу Данных MySQL с кодировкой utf8_General_c
+2. В БД создать таблицу articles
+3. Создать 4 записи в таблице:
+ID int (auto)
+title varchar 255
+content text
+date DATE
+*/
